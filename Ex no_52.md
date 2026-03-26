@@ -14,8 +14,10 @@ Input will contain four integers - a,b,c,d , one on each line.
 
 Print the greatest of the four integers.
 Note: I/O will be automatically handled.
+
 ## AIM:
 To write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+
 ## ALGORITHM:
 1. Start.
 2. Define a variables.
@@ -24,6 +26,7 @@ To write a function int max_of_four(int a, int b, int c, int d) which reads four
 5. Ask the user to make an input.
 6. Print out the answer.
 7. End.
+
 ## PROGRAM:
 ```
 #include<stdio.h>
