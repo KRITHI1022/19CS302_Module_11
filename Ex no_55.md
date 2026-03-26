@@ -1,5 +1,5 @@
 # EX 55 C program to find a square of number using function with arguments without return type.
-## DATE:21/05/2025
+## DATE:26/03/2026
 ## AIM:
 To write a C program to find a square of number using function with arguments without return type.
 
